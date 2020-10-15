@@ -25,11 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   The github site is the project bog, and might also hold sources of software made for the project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  Oeyvind
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
