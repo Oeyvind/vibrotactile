@@ -23,7 +23,7 @@ email: oyvind.brandtsegg@ntnu.no
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring feedback and resonances in various materials, by using audio feedback techniques as the exploratory device. Utilizing these methods to create new instruments for artistic performance. The mthods also give us the opportunity to reflect upon the differences between a scientific measurement and and artistic exploration (of these materials, but supposedly the poerspective might be transferrable to other domains of study).
   The github site is the project bog, and might also hold sources of software made for the project.
-baseurl: "/_site" # the subpath of your site, e.g. /blog
+baseurl: "/vibrotactile/_site" # the subpath of your site, e.g. /blog
 url: "https://oeyvind.github.io/vibrotactile/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Oeyvind
