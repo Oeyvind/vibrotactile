@@ -1,0 +1,4 @@
+# Testing a selection of materials in the material technology lab at NTNU
+Notes:
+Tested resonance and feedback on a variety of different materials. Starting with wide approach: aluminum, steel, brass, glass, polymers with different stiffness, density and porosity. Metals and glass have a rich spectrum, but are somewhat hard to control in the upper frequency range. Wood have pleasant and rich resonances, but it also varies a lot between samples. For repeatability and predictability in treatments/modifications, it would be better to have materials of a more uniform nature. Some polymers exhibit similar characteristics, like polycarbonate and bakelite. Softer plastics like PVC and acrylic glass exhibit much more “dead” response and as such not so attractive for resonance and feedback. 
+We made two polycarbonate samples with identical geometry, adding perforations on one of these, as to investigate the effect of perforations on the harmonic spectrum of the objects.
