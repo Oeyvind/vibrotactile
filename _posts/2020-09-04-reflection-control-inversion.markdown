@@ -1,2 +1,9 @@
-## Reflection 4/9
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: post
+---
+
+# Reflection 4/9
 The feedback instrument (contact mike, transducer, resonating plate, feedback control software) can be controlled by physically manipulating the plate. Similar to most musical instruments, we manipulate the physical object to produce different audible effects, different pitches and so on. The big difference here is that we start with what the environment (instrument system) give us as the base resonance, and then we remove (dampen) those frequencies we do not want, and then another resonance appears. It is appears somewhat zen-like: you can not decide, you can not want, but you can adapt to what is there. It is an inversion of performance in that the performer removes what they do not want, rather than producing those things they want. It is also a close symbiosis between player and instrument, between listening and actuating, …
