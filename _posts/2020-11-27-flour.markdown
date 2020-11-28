@@ -1,0 +1,11 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: post
+---
+
+I wanted to see if [Cymatics](https://en.wikipedia.org/wiki/Cymatics) techniques could be used to visualize the vibrational modes of our feedback plates. One would think so... but it seems so far I just found a new immensely pleasing toy. The powder moves according to vibration and form shapes, but they seem much more complex than the typical symmetric Chladni patterns. On first impression, this seems counterintuitive to me, since the feedback circuit (sound coming into the plate from a transducer, being picked up by the piezo on my finger and run back to the plate) should basically make the plate sing on one of its basic vibrational modes. Moreover, I can sort of direct the powder to move around the plate according to how I move my finger. Nothing very precise, but we can notice a correlation.... yet to be explored more. another nice surprise was when I tried to use regular wheat flour as the powder, as it "clumps" (condense, coagulate ... what do you call it when that happens to powder?) into interesting shapes. Sometimes we get small balls of four, sometimes rotating cylinders/worms.  By lucky chance I had a package of sugar/cinnamon mix in my desk drawer (for some reason...), and sprinkled that on the plate together with the flour. The different characteristics of flour/cinnamon/sugar made for some nice patterns. And my whole studio now smells nicely like cinnamon buns.
+
+Video recorded 27. November 2020. Performer: Øyvind Brandtsegg.
+[![Alternate Text](../../../media/flour_full_2020_11_27_still.png)](https://youtu.be/_8yQPSao19M "Link Title")

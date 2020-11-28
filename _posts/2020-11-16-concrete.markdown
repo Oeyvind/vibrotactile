@@ -1,0 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: post
+---
+
+In our original project plan, we had discussed briefly the possibility of using feedback techniques to investigate larger structures and buildings. I felt the urge to do some initial tests to see if we could get this kind of feedback going with heavier materials. Testing on a small concrete slab, I had to turn up the power somewhat, but not to an extreme degree. I did not measure the exact difference, but it should be in the order of 10 dB. The first feedback resonances appeared at around 8kHz, which is kind of painful to listen to, then with regular equalizing and compression, I got more resonances at around 4kHz and 6kHz (not in harmonic relationships, even though the approximate numbers might give that impression: the exact numbers where 8381 Hz, 5630 Hz, 4714 Hz, and after moving the microphone slightly I also got one at 1240 Hz).
+
+![Concrete slab feedback](../../../media/Concrete_slab_2020_11_16.jpg)
