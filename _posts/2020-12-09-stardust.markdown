@@ -1,0 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: post
+---
+
+Inspired by the exhibition [Transgression](https://samtidskunst.no/en/event/transgression) by Reinhold Ziegler, I wanted to see how meteorite dust would work as the powdery substance to create Cymatics patterns on the feedback plates. Reinhold generously provided me with some dust, a residue from his production process.
+The powder is very characteristic, fine grained, and sticks to everything (!). From how it behaves on the magnetic transducer (the speaker/vibrator element on the plate), we can also assume that it contains some iron granules as we see some darker colored particles gather close to the transducer. Also, different size particles behave differently, and thus they gather into separate "heaps" in the cymatics patterns. Also interesting is the "volcanic" puffing activity for a few seconds around 1:26 in the video.
+
+Video recorded 9. December 2020. Performer: Øyvind Brandtsegg.
+[![Alternate Text](../../../media/meteorite_dust_2020_12_09_still.png)](../../../media/meteorite_dust_2020_12_09.webm)
