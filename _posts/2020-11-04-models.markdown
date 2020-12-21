@@ -1,0 +1,28 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: post
+---
+
+Kaspar Lasn made some models to investigate vibrational modes in our plates, so we could try to correlate the eigenfrequencies with the resonant frequencies that appear when using audio feedback. As the resonant frequencies created with feedback is also governed by the impulse response of the audio system, it is a somewhat complex problem to disentangle. However, the models of the plates tell us a lot of what we can expect, and it also help us understand how modifications to the plates (e.g. by drilling holes or cutting slits) might affect the resonances.
+
+<figure>
+  <img src="../../../media/4_1.png" alt="Lo freq modes" style="width:50%">
+  <figcaption>Low frequency mode comparison in plates with no holes and small, medium and large holes.</figcaption>
+</figure>
+<br><br>
+<figure>
+  <img src="../../../media/4_2.png" alt="Mid freq modes" style="width:50%">
+  <figcaption>Mid frequency mode comparison in plates with no holes and small, medium and large holes.</figcaption>
+</figure>
+<br><br>
+<figure>
+  <img src="../../../media/4_3.png" alt="Hi freq modes" style="width:50%">
+  <figcaption>High frequency mode comparison in plates with no holes and small, medium and large holes.</figcaption>
+</figure>
+<br><br>
+<figure>
+  <img src="../../../media/4_4.png" alt="Exotic modes" style="width:50%">
+  <figcaption>Some more exotic modes in a plate, here with medium  size holes</figcaption>
+</figure>
