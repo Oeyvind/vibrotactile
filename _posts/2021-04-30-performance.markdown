@@ -44,4 +44,5 @@ Sound mix
 Øyvind Brandtsegg
 
 
-[![Alternate Text](../../../media/onlyconnect_2021.png)](https://vimeo.com/548364133)
+<iframe src="https://player.vimeo.com/video/548364133" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/548364133">Only Connect 2021: The Things We Need Feedback!</a> from <a href="https://vimeo.com/nymusikk">nyMusikk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
