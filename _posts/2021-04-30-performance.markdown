@@ -5,7 +5,7 @@
 layout: post
 ---
 
-After some months of experimentation with the feedback plate instruments, we assembled a performance for the Only Connect festival in Trondheim. Here we utilized the finger mounted piezo technique to make a varied collection of instruments, also using part of the architecture of the gallery building at Gråmølna (Trondheim art museum). We played windows, staircases, polycarbonate plates, and bioplastic plates. Alex assembled a fantastic team of collaborators from KIT (The fine arts academy of NTNU) and her professional contacts. We also invited NTNU music technology students and music performance professionals.
+After  months of experimentation with the feedback plate instruments, we we wery happy and proud to assemble a performance for the Only Connect festival in Trondheim. Here we utilized the finger mounted piezo technique to make a varied collection of instruments, also using part of the architecture of the gallery building at Gråmølna (Trondheim art museum). We played windows, staircases, polycarbonate plates, and bioplastic plates. Alex assembled a fantastic team of collaborators from KIT (The fine arts academy of NTNU) and her professional contacts. We also invited NTNU music technology students and music performance professionals.
 
 Performers:
 Øyvind Brandtsegg, Amalia Wiatr Lewis, Jordan Sand, Alex Murray-Leslie, Melissa E. Logan, Mona Krogstad, Mette Rasmussen and Joel Hynsjö.
@@ -44,4 +44,4 @@ Sound mix
 Øyvind Brandtsegg
 
 
-[![Alternate Text](https://vimeo.com/548364133)](https://vimeo.com/548364133)
+[![Alternate Text](../../../media/onlyconnect_2021.png)](https://vimeo.com/548364133)
